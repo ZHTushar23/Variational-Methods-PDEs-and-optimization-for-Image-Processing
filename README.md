@@ -1,0 +1,2 @@
+# Variational-Methods-PDEs-and-optimization-for-Image-Processing
+This repository contains the MATLAB implementation of assignments completed as a part of the "Variational Methods, PDEs and optimization for Image Processing" course. This course was offered by the University of Bordeaux, France. The course was taken as part of the Erasmus Mundus Joint Master Degree in Image Processing and Computer Vision (IPCV).
